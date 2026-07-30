@@ -1,4 +1,16 @@
 aid: puyo-nexus
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/puyo-nexus.png
 name: Puyo Nexus
 description: "Puyo Puyo information from Puyo Nexus Wiki"
 url: https://github.com/deltadex7/puyodb-api-deno
