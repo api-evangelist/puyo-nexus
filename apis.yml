@@ -40,7 +40,8 @@ apis:
   - name: Puyo Nexus
     description: "Puyo Puyo information from Puyo Nexus Wiki"
     humanURL: https://github.com/deltadex7/puyodb-api-deno
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
